@@ -76,9 +76,8 @@ label {
 .button:active {
   opacity: 1;
 }
-/* @media only screen and (orientation: portrait) {
+@media only screen and (orientation: portrait) {
   .container {
     width: 40vmax;
-    height: 40vmax;
   }
-} */
+}
