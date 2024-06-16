@@ -77,7 +77,6 @@ function nextQuestion() {
       score++;
     }
     i++;
-    console.log(score);
     if (i < questions.length) {
       questionMaker();
     } else {
